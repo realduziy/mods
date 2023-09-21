@@ -1,6 +1,6 @@
 # The Best Performance / Quality-of-Life Mods for Minecraft 1.20.1
 
-This is the most up-to-date list of the mods that I personally use while playing Minecraft 1.20.1, these mods can also double for older verstions of minecraft so keep that in mind.
+This is the most up-to-date list of the mods that I personally use while playing Minecraft 1.20.1, these mods can also double for older versions of Minecraft so keep that in mind.
 
 # Why can't I download these all in one ZIP file? Why do I have to download them all individually?
 
